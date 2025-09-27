@@ -52,10 +52,10 @@ const About = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            About Me
+            About Me - Flutter & Full Stack Developer
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Passionate developer with a love for creating innovative solutions
+            Passionate Flutter Developer with expertise in cross-platform mobile development and full-stack solutions
           </p>
         </motion.div>
 

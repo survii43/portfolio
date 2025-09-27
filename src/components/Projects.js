@@ -66,10 +66,10 @@ const Projects = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Featured Projects
+            Featured Flutter & Full Stack Projects
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            A showcase of my professional work across various industries and technologies
+            Professional Flutter mobile apps and full-stack web applications across food tech, fleet management, IoT, and media industries
           </p>
         </motion.div>
 

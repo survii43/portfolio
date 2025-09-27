@@ -49,10 +49,10 @@ const TechnicalSkills = () => {
           className="text-center mb-16"
         >
           <h2 className="text-4xl md:text-5xl font-bold text-white mb-6">
-            Technical Skills
+            Technical Skills - Flutter, ReactJS & Full Stack
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            My technical expertise spans across frontend, mobile, and backend technologies
+            Expertise in Flutter cross-platform development, ReactJS frontend, and expanding into Node.js backend technologies
           </p>
         </motion.div>
 

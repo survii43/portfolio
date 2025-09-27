@@ -28,14 +28,14 @@ const Home = () => {
             <span className="gradient-text">Sourav Kumar</span>
           </motion.h1>
           
-          <motion.p
+          <motion.h2
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-xl md:text-2xl text-gray-300 mb-8 max-w-2xl mx-auto"
           >
-            Front-End Developer & Mobile App Developer
-          </motion.p>
+            Flutter Developer & Full Stack Developer
+          </motion.h2>
           
           <motion.p
             initial={{ opacity: 0, y: 30 }}
@@ -43,7 +43,7 @@ const Home = () => {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg text-gray-400 mb-12 max-w-3xl mx-auto"
           >
-            Front-End Developer with 4+ years of experience in ReactJS and Flutter, currently expanding into full stack development with Node.js, Express, and MongoDB. Passionate about building end-to-end web and mobile applications.
+            Experienced Flutter Developer with 4+ years in cross-platform mobile development, specializing in ReactJS, Node.js, and MongoDB. Passionate about building scalable real-time applications and expanding into full-stack development. Based in Bangalore, India.
           </motion.p>
           
           <motion.div
