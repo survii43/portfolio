@@ -6,7 +6,7 @@ const Footer = () => {
     {
       name: 'GitHub',
       icon: 'github',
-      url: 'https://github.com/souravkumar',
+      url: 'https://github.com/survii43',
       color: 'hover:text-gray-400'
     },
     {
